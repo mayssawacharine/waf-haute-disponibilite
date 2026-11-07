@@ -1,7 +1,6 @@
 # Haute disponibilité basée sur un WAF Open Source
 
-Projet réalisé à TEK-UP, matière Audit.
-Réalisé par Mayssa Wacharine. Encadrant : M. Mohamed Ali Mejri.
+
 
 ## Objectif
 Protéger une application web contre les attaques (SQLi, XSS, path traversal) avec un WAF Open Source, sans que la panne d'un composant n'interrompe le service.
