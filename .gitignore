@@ -1,0 +1,10 @@
+*.key
+*.pem
+crs/
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.out
+*.synctex.gz
